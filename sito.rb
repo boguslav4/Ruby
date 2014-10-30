@@ -20,15 +20,15 @@ def wypisz(array)
 end
 
 def sito(array)
-	for i in 2..100
-		if array[i] != 1
-			for j in i*2..100
-				if j % i == 0
-					array[j] =1
-				end
-			end	
+  for i in 2..100
+    if array[i] != 1
+	  for j in i*2..100
+	    if j % i == 0
+		  array[j] =1
 		end
+	  end	
 	end
+   end
 end
 
 
