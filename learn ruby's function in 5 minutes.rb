@@ -1,7 +1,3 @@
-# Na początek - komentarze w Ruby 
-
-# Warto unikać komenarzy wieloliniowych zaznaczanych znakiem równa się, bo ...
-# lepiej napisać je jako złożenie kilku jednoliniowych 
 
 #W Ruby wszystko jest obiektem 
 #Obiekty to struktury posiadające metody (własne funkcje) i pola (własne zmienne)
